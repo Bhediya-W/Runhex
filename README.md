@@ -1,4 +1,4 @@
-# Test project to understand and build a weird looking app via material ui
+# Test project 
 
 ## Available Scripts
 
