@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Test project to understand and build a weird looking app via material ui
 
 ## Available Scripts
 
